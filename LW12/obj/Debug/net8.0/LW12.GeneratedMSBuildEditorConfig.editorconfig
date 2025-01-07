@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LW12
+build_property.RootNamespace = LW12
+build_property.ProjectDir = C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\Labs\LW12\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\Labs\LW12
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Experiment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZXJpbWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Experiment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZXJpbWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Experiment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZXJpbWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Experiment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZXJpbWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Experiment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZXJpbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Projects/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Projects/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Projects/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Projects/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Projects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Researchers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZWFyY2hlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Researchers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZWFyY2hlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Researchers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZWFyY2hlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Researchers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZWFyY2hlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Researchers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZWFyY2hlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Georgiy/OneDrive/Рабочий стол/ЛР по АЯ 3ий сем/Labs/LW12/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4i989o9dpa

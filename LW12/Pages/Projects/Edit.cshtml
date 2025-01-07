@@ -1,0 +1,54 @@
+@page
+@model LW12.Pages_Projects.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Projects</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Projects.Id" />
+            <div class="form-group">
+                
+                <label asp-for="Projects.ProjectName" class="control-label"></label>
+                <input asp-for="Projects.ProjectName" class="form-control" />
+                <span asp-validation-for="Projects.ProjectName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="Projects.Description" class="control-label"></label>
+                <input asp-for="Projects.Description" class="form-control" />
+                <span asp-validation-for="Projects.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="Projects.StartDate" class="control-label"></label>
+                <input asp-for="Projects.StartDate" class="form-control" />
+                <span asp-validation-for="Projects.StartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="Projects.EndDate" class="control-label"></label>
+                <input asp-for="Projects.EndDate" class="form-control" />
+                <span asp-validation-for="Projects.EndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

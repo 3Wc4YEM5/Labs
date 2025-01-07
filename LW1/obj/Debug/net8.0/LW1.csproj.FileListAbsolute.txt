@@ -1,0 +1,14 @@
+C:\Users\Georgiy\source\repos\LW1\bin\Debug\net8.0\LW1.exe
+C:\Users\Georgiy\source\repos\LW1\bin\Debug\net8.0\LW1.deps.json
+C:\Users\Georgiy\source\repos\LW1\bin\Debug\net8.0\LW1.runtimeconfig.json
+C:\Users\Georgiy\source\repos\LW1\bin\Debug\net8.0\LW1.dll
+C:\Users\Georgiy\source\repos\LW1\bin\Debug\net8.0\LW1.pdb
+C:\Users\Georgiy\source\repos\LW1\obj\Debug\net8.0\LW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgiy\source\repos\LW1\obj\Debug\net8.0\LW1.AssemblyInfoInputs.cache
+C:\Users\Georgiy\source\repos\LW1\obj\Debug\net8.0\LW1.AssemblyInfo.cs
+C:\Users\Georgiy\source\repos\LW1\obj\Debug\net8.0\LW1.csproj.CoreCompileInputs.cache
+C:\Users\Georgiy\source\repos\LW1\obj\Debug\net8.0\LW1.dll
+C:\Users\Georgiy\source\repos\LW1\obj\Debug\net8.0\refint\LW1.dll
+C:\Users\Georgiy\source\repos\LW1\obj\Debug\net8.0\LW1.pdb
+C:\Users\Georgiy\source\repos\LW1\obj\Debug\net8.0\LW1.genruntimeconfig.cache
+C:\Users\Georgiy\source\repos\LW1\obj\Debug\net8.0\ref\LW1.dll

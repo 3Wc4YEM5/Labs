@@ -1,0 +1,14 @@
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\bin\Debug\net8.0\LW3.exe
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\bin\Debug\net8.0\LW3.deps.json
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\bin\Debug\net8.0\LW3.runtimeconfig.json
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\bin\Debug\net8.0\LW3.dll
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\bin\Debug\net8.0\LW3.pdb
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\obj\Debug\net8.0\LW3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\obj\Debug\net8.0\LW3.AssemblyInfoInputs.cache
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\obj\Debug\net8.0\LW3.AssemblyInfo.cs
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\obj\Debug\net8.0\LW3.csproj.CoreCompileInputs.cache
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\obj\Debug\net8.0\LW3.dll
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\obj\Debug\net8.0\refint\LW3.dll
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\obj\Debug\net8.0\LW3.pdb
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\obj\Debug\net8.0\LW3.genruntimeconfig.cache
+C:\Users\Georgiy\OneDrive\Рабочий стол\ЛР по АЯ 3ий сем\LW3\obj\Debug\net8.0\ref\LW3.dll
